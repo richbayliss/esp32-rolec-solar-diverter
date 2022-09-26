@@ -1,0 +1,3 @@
+[submodule "lib/mcp4xxx"]
+	path = lib/mcp4xxx
+	url = https://github.com/jmalloc/arduino-mcp4xxx.git
